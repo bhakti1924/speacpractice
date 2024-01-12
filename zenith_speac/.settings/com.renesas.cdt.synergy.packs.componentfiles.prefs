@@ -1,0 +1,15 @@
+Renesas\#\#BSP\#\#Board\#\#s5d9_pk\#\#\#\#2.5.0/libraries=
+Renesas\#\#BSP\#\#s5d9\#\#device\#\#\#\#2.5.0/all=synergy/ssp/src/bsp/cmsis/Device/RENESAS/S5D9/Include/system_S5D9.h
+Renesas\#\#BSP\#\#s5d9\#\#device\#\#\#\#2.5.0/libraries=
+Renesas\#\#BSP\#\#s5d9\#\#device\#\#R7FS5D97E3A01CFC\#\#2.5.0/all=synergy/ssp/src/bsp/mcu/s5d9/libfmi_R7FS5D97E3A01CFC_gcc.a
+Renesas\#\#BSP\#\#s5d9\#\#device\#\#R7FS5D97E3A01CFC\#\#2.5.0/libraries=libfmi_R7FS5D97E3A01CFC_gcc.a
+Renesas\#\#BSP\#\#s5d9\#\#ssp\#\#\#\#2.5.0/all=synergy/ssp/src/bsp/cmsis/Device/RENESAS/S5D9/Include/S5D9.h|synergy/ssp/src/bsp/cmsis/Device/RENESAS/S5D9/Include/system_S5D9.h|synergy/ssp/src/bsp/cmsis/Device/RENESAS/S5D9/Source/startup_S5D9.c|synergy/ssp/src/bsp/cmsis/Device/RENESAS/S5D9/Source/system_S5D9.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_analog.h|synergy/ssp/src/bsp/mcu/s5d9/bsp_cache.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_cache.h|synergy/ssp/src/bsp/mcu/s5d9/bsp_clocks.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_elc.h|synergy/ssp/src/bsp/mcu/s5d9/bsp_feature.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_group_irq.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_hw_locks.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_mcu_info.h|synergy/ssp/src/bsp/mcu/s5d9/bsp_module_stop.c|synergy/ssp/src/bsp/mcu/s5d9/bsp_rom_registers.c
+Renesas\#\#BSP\#\#s5d9\#\#ssp\#\#\#\#2.5.0/libraries=
+Renesas\#\#Common\#\#all\#\#ssp_common\#\#\#\#2.5.0/libraries=libDSP_Lib.a|libNN_Lib.a
+Renesas\#\#Express\ Logic\#\#all\#\#tx\#\#\#\#2.5.0/libraries=libtx.a
+Renesas\#\#HAL\ Drivers\#\#all\#\#r_cgc\#\#\#\#2.5.0/libraries=
+Renesas\#\#HAL\ Drivers\#\#all\#\#r_elc\#\#\#\#2.5.0/libraries=
+Renesas\#\#HAL\ Drivers\#\#all\#\#r_fmi\#\#\#\#2.5.0/libraries=libfmi_cm4_s5d9_gcc.a
+Renesas\#\#HAL\ Drivers\#\#all\#\#r_ioport\#\#\#\#2.5.0/libraries=
+Renesas\#\#Projects\#\#all\#\#BlinkyThreadX\#\#\#\#2.5.0/libraries=
+eclipse.preferences.version=1
